@@ -1,0 +1,43 @@
+Cmp-Mod V01 Created by PcbNew   date = 3/13/2022 8:28:43 PM
+
+BeginCmp
+TimeStamp = a2a4b1ad-c51a-492d-9e99-410eec4f55a3
+Path = /e4f6779f-248c-43d4-ac69-68bbd89522b7
+Reference = U1;
+ValeurCmp = L7805;
+IdModule  = Package_TO_SOT_THT:TO-220-3_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = fab985e9-e679-4dd8-a59c-e3195d08506a
+Path = /d1f3d9f0-bd53-4056-92b8-1b4cc21d321f
+Reference = RegOut1;
+ValeurCmp = 33uF;
+IdModule  = Capacitor_THT:CP_Radial_D8.0mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = d5a7688c-7438-4b6d-999f-4f2a3cb18fd6
+Path = /241371bc-b4d6-4a13-9cfa-ae67d7de870e
+Reference = RegIn1;
+ValeurCmp = 10uF;
+IdModule  = Capacitor_THT:CP_Radial_D8.0mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = a419542a-0c78-421e-9ac7-81d3afba6186
+Path = /874caacf-2f7c-4448-9a51-9fbcd4964f88
+Reference = BattIn1;
+ValeurCmp = Conn_01x02;
+IdModule  = Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 2a1de22d-6451-488d-af77-0bf8841bd695
+Path = /084fb84e-0338-450c-9d77-90cba5be71e3
+Reference = U2;
+ValeurCmp = PIC16F1619-xP;
+IdModule  = Package_DIP:DIP-20_W7.62mm;
+EndCmp
+
+EndListe
